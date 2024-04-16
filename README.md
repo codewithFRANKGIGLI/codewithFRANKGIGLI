@@ -58,5 +58,5 @@
 ###
 
 <div align="center">
-  <img src="./mybuild.gif" />
+  <img src="./mybuild.gif" height="300" />
 </div>
