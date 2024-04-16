@@ -62,5 +62,5 @@
 ###
 
 <div align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-3b4974802d.gif" height="300" />
+  <img src="[https://s2.ezgif.com/tmp/ezgif-2-3b4974802d.gif](https://drive.google.com/file/d/1E4ph0u0RtplvFdnRyK-jq0nvCuHXRhg0/view?usp=drive_link)" height="300" />
 </div>
