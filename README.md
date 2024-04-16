@@ -58,5 +58,5 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/codewithFRANKGIGLI/mybuildgif.git" />
+  <img src="./mybuild.gif" />
 </div>
