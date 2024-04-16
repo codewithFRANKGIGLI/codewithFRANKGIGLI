@@ -39,19 +39,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithfrankgigli" alt="codewithfrankgigli" /></a> </p>
 
+###
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithfrankgigli&show_icons=true&locale=en&layout=compact" alt="codewithfrankgigli" /></p>
 
+###
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithfrankgigli&show_icons=true&locale=en" alt="codewithfrankgigli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithfrankgigli&" alt="codewithfrankgigli" /></p>
-
-
-
-
-
-
+###
 
 <img align="right" height="300" src="https://s2.ezgif.com/tmp/ezgif-2-3b4974802d.gif"  />
 
