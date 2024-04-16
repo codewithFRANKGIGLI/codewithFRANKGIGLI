@@ -2,20 +2,6 @@
 
 - 🔭 I’m currently studying with **Boolean Careers**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithfrankgigli&label=Profile%20views&color=0e75b6&style=flat" alt="codewithfrankgigli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithfrankgigli" alt="codewithfrankgigli" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithfrankgigli&show_icons=true&locale=en&layout=compact" alt="codewithfrankgigli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithfrankgigli&show_icons=true&locale=en" alt="codewithfrankgigli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithfrankgigli&" alt="codewithfrankgigli" /></p>
-
-
-
 ###
 
 <div align="left">
@@ -51,12 +37,26 @@
 
 ###
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithfrankgigli" alt="codewithfrankgigli" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithfrankgigli&show_icons=true&locale=en&layout=compact" alt="codewithfrankgigli" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithfrankgigli&show_icons=true&locale=en" alt="codewithfrankgigli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithfrankgigli&" alt="codewithfrankgigli" /></p>
+
+
+
+
+
+
+
 <img align="right" height="300" src="https://s2.ezgif.com/tmp/ezgif-2-3b4974802d.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@codewithFRANKGIGLI&theme=slateorange" alt="Layout with last medium posts"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithfrankgigli&label=Profile%20views&color=0e75b6&style=flat" alt="codewithfrankgigli" /> </p>
 
 ###
