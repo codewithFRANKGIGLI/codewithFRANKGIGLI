@@ -62,5 +62,5 @@
 ###
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1E4ph0u0RtplvFdnRyK-jq0nvCuHXRhg0/view?usp=drive_link" height="300" />
+  <img src="https://drive.google.com/file/d/1-_QHhdnHrMisp0NCzHIO4v4nfIlXkW15/view?usp=sharing" height="300" />
 </div>
