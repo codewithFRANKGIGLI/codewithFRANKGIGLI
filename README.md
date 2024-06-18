@@ -2,11 +2,6 @@
 
 - 🔭 I’m currently studying with **Boolean Careers**
 
-###
-
-  
-
-<br/>  
 
 
 ## My Skill Set  
@@ -40,19 +35,6 @@
 </div>
 
 </td>
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 
 ###
