@@ -1,8 +1,5 @@
 <h2 align="center">Hi 👋! My name is Frank and I'm a Jr. Full-stack web developer from Italy.</h2>
 
-- 🔭 I’m currently studying with **Boolean Careers**
-
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
